@@ -9,10 +9,8 @@ fn calc_fuelr(mut mass: i32) -> i32 {
             break;
         }
         f+=mass;
-        
     }
     f
-
 }
 
 fn main() {
